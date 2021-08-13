@@ -36,5 +36,5 @@ function saveUserToLocalStorage(name, jobTitle) {
 
   // 2. Now save the serialized data to localStorage.
 
-  localStorage.setItem("\_cb_user", userStringified);
+  localStorage.setItem("_cb_user", userStringified);
 }
